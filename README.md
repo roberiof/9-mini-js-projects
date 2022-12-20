@@ -11,7 +11,7 @@ Acess the projects:
 7. <a href="https://roberiof.github.io/9-mini-js-projects/lampada/lampadas/1-button/index2.html"> Lamp (1 button)  </a>
 8. <a href="https://roberiof.github.io/9-mini-js-projects/semaforo/index.html"> Semaphore  </a>
 9. <a href="https://roberiof.github.io/9-mini-js-projects/slideshow/index.html"> SlideShow  </a>
-10. <a href="https://roberiof.github.io/9-mini-js-projects/todo-list/index.html"> ToDO List  </a>
+10. <a href="https://roberiof.github.io/9-mini-js-projects/todo-list/index.html"> ToDo List  </a>
 
 <hr> 
 
